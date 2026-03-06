@@ -1,0 +1,7 @@
+services:
+  bagloss:
+    build:
+      context: .
+    image: bagloss
+    container_name: bagloss
+    env_file: .env
