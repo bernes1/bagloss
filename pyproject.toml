@@ -4,4 +4,8 @@ version = "0.1.0"
 description = "A simple service that sends a push nofication and tells you that github is down"
 readme = "README.md"
 requires-python = ">=3.14"
-dependencies = []
+dependencies = [
+    "feedparser>=6.0.12",
+    "python-dateutil>=2.9.0.post0",
+    "requests>=2.32.5",
+]
