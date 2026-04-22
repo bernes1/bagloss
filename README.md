@@ -1,4 +1,5 @@
 # bagloss
+[![AI Slop Inside](https://sladge.net/badge.svg)](https://sladge.net)
 Sometimes you wonder if it is you or github having issues?.
 now you dont have to wonder you get a push notification when github has a incident.
 
